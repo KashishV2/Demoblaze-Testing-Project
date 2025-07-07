@@ -14,7 +14,6 @@ It includes test cases for modules like **Login**, **Cart**, and **Checkout**, a
   - Excel / Google Sheets (Test Case Documentation)  
   - JIRA (Bug Tracking - if applicable)  
   - GitHub (Version Control)  
-  - Postman (Optional - API Testing)
 
 ---
 
