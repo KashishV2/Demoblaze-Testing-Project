@@ -42,7 +42,6 @@ Some critical bugs found during testing (see full details in `Bug_Report.md`):
 - ✔️ Manual Testing
 - ✔️ Google Sheets / Excel
 - ✔️ Optional: JIRA (for bug reporting)
-- ✔️ Optional: Postman (for API validation)
 
 ---
 
