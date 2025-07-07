@@ -73,6 +73,5 @@ Demoblaze-Testing-Project/
 
 ---
 
-⭐ Give this repo a star if you liked the effort!## 🧪 Sample Test Case Format
-
+⭐ Give this repo a star if you liked the effort!
 
