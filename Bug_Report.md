@@ -63,7 +63,8 @@ The following error is shown:
 > "The media could not be loaded, either because the server or network failed or because the format is not supported."
 
 ### 📸 Screenshot:
-Add image here from: `/screenshots/TC_015_AboutUs_MediaError.png`
+<img width="1920" height="1020" alt="{1AE29C73-935E-4F3D-B494-1B7992A4875C}" src="https://github.com/user-attachments/assets/d6bf5c7a-109e-4c20-96b3-bea7a660a925" />
+
 
 ### 🔁 Reproducible:
 Yes – consistently occurs on every visit
