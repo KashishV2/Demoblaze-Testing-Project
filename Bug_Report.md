@@ -33,7 +33,8 @@ No "Forgot Password?" link is present on the login modal.
 ---
 
 ## 📸 Screenshot:
-*Attach a screenshot here if possible*
+<img width="1920" height="1020" alt="{957EC54F-3030-4ABA-A896-6EE09A62D415}" src="https://github.com/user-attachments/assets/c6761ff5-040f-4af6-bdb4-da9ba204be2f" />
+
 
 ---
 
