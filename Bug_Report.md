@@ -1,14 +1,46 @@
-# 🐞 Bug Report - Demoblaze Testing
+# 🐞 Bug Report: Missing "Forgot Password" Option on Login Page
+
+**Project Name:** Demoblaze E-commerce Website  
+**Module:** Login  
+**Reported By:** Kashish Varshney  
+**Date:** 11/07/2025  
+**Severity:** Medium  
+**Priority:** Medium  
+**Bug Type:** UI/UX
 
 ---
 
-### 🐛 Bug #1: Login accepts empty password
+## 🔍 Description:
+The "Forgot Password?" link is missing from the login modal. This affects users who have forgotten their password and want to reset it.
 
-- **Module**: Login
-- **Steps to Reproduce**:
-  1. Click on **Login**
-  2. Enter valid username, leave **password blank**
-  3. Click **Login**
-- **Expected**: Should show error: “Please enter password”
-- **Actual**: Logged in successfully
-- **Severity**: High
+---
+
+## ✅ Steps to Reproduce:
+1. Go to the website: [https://www.demoblaze.com/](https://www.demoblaze.com/)
+2. Click on the **"Log in"** button in the top navbar
+3. Observe the login popup
+
+---
+
+## 🧪 Expected Result:
+There should be a **"Forgot Password?"** link below the login fields.
+
+---
+
+## ❌ Actual Result:
+No "Forgot Password?" link is present on the login modal.
+
+---
+
+## 📸 Screenshot:
+*Attach a screenshot here if possible*
+
+---
+
+## 🔁 Reproducible:
+Yes – happens every time.
+
+---
+
+## 💡 Suggestion:
+Add a "Forgot Password" link for better UX and accessibility.
